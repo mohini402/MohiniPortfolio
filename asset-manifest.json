@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mohiniPortfolio/static/css/main.362cc636.css",
+    "main.js": "/mohiniPortfolio/static/js/main.a75f12ec.js",
+    "static/media/mohini.jpg": "/mohiniPortfolio/static/media/mohini.807cb25b4b25c52b7736.jpg",
+    "static/media/whiteboard.png": "/mohiniPortfolio/static/media/whiteboard.83f54aa4ffe4d903e2a0.png",
+    "static/media/blog.png": "/mohiniPortfolio/static/media/blog.1b129c923ff7e7750ab4.png",
+    "static/media/tic.png": "/mohiniPortfolio/static/media/tic.049c5348797b82f8c374.png",
+    "static/media/instagram.png": "/mohiniPortfolio/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/hotel.png": "/mohiniPortfolio/static/media/hotel.a6bd10a2688c57f47851.png",
+    "static/media/linkedin.png": "/mohiniPortfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/mohiniPortfolio/index.html",
+    "main.362cc636.css.map": "/mohiniPortfolio/static/css/main.362cc636.css.map",
+    "main.a75f12ec.js.map": "/mohiniPortfolio/static/js/main.a75f12ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362cc636.css",
+    "static/js/main.a75f12ec.js"
+  ]
+}
